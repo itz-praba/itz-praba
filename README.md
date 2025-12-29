@@ -67,7 +67,7 @@ I believe in learning by building complete systems — from frontend UI to backe
 ---
 
 ## 📄 Resume
-📥 **Download Resume:** *https://docs.google.com/document/d/1l6saEDeOi9VdKKcI1EAyT2E3F2jTnfsH4JcIjjDrKiM/edit?tab=t.0*
+📥 **Download Resume:** *[https://docs.google.com/document/d/1l6saEDeOi9VdKKcI1EAyT2E3F2jTnfsH4JcIjjDrKiM/edit?tab=t.0](https://drive.google.com/file/d/1N8BXTeLU4AJTElCr_Cqqz5IBK3zlwSDc/view?ths=true)*
 
 ---
 
