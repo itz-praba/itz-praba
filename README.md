@@ -73,7 +73,7 @@ I believe in learning by building complete systems — from frontend UI to backe
 
 ## 📫 Connect With Me
 - 📧 Email: dineshprabakaran2509@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/dinesh-prabakaran-491659306/  
+- 💼 LinkedIn:[ https://www.linkedin.com/in/dinesh-prabakaran-491659306/ ](https://www.linkedin.com/in/itz-praba/) 
 - 🌐 GitHub: https://github.com/itz-praba 
 
 ---
